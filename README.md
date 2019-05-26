@@ -5,10 +5,10 @@ Prácticas realizadas en la asignatura Arquitectura y Computación de Altas Pres
 
 ## Practicas realizadas:
 
-- [P2](https://github.com/roronoasins/acap-ugr/tree/master/P2) - Cálculo de π
-- [P3](https://github.com/roronoasins/acap-ugr/tree/master/P3) - Algoritmo a elegir: Detector de bordes en imágenes
-- [P4](https://github.com/roronoasins/acap-ugr/tree/master/P4) - CUDA I: Multiplicación de las componentes de un vector
-- [P5](https://github.com/roronoasins/acap-ugr/tree/master/P5) - CUDA II: Detector de bordes en imágenes
+- [P2](https://github.com/roronoasins/acap-ugr/tree/master/P2_calculo_pi) - Cálculo de π
+- [P3](https://github.com/roronoasins/acap-ugr/tree/master/P3_sobel_operator) - Algoritmo a elegir: Detector de bordes en imágenes
+- [P4](https://github.com/roronoasins/acap-ugr/tree/master/P4_cuda_I) - CUDA I: Multiplicación de las componentes de un vector
+- [P5](https://github.com/roronoasins/acap-ugr/tree/master/P5_cuda_II) - CUDA II: Detector de bordes en imágenes
 
 ## Competencias:
 - Búsqueda de concurrencia en el algoritmo
