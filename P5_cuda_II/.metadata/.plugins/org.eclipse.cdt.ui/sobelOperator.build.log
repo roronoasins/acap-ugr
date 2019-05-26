@@ -1,0 +1,35 @@
+13:41:36 **** Incremental Build of configuration Debug for project sobelOperator ****
+make all 
+Building file: ../src/SobelFilter.cpp
+Invoking: NVCC Compiler
+/usr/local/cuda-10.1/bin/nvcc -I-I/usr/include/opencv -I"/usr/local/cuda-10.1/samples/3_Imaging" -I"/usr/local/cuda-10.1/samples/common/inc" -I"/home/roronoasins/Music/acap-ugr/P5/sobelOperator" -G -g -O0 -gencode arch=compute_50,code=sm_50  -odir "src" -M -o "src/SobelFilter.d" "../src/SobelFilter.cpp"
+/usr/local/cuda-10.1/bin/nvcc -I-I/usr/include/opencv -I"/usr/local/cuda-10.1/samples/3_Imaging" -I"/usr/local/cuda-10.1/samples/common/inc" -I"/home/roronoasins/Music/acap-ugr/P5/sobelOperator" -G -g -O0 --compile  -x c++ -o  "src/SobelFilter.o" "../src/SobelFilter.cpp"
+../src/SobelFilter.cpp: In function ‘int main(int, char**)’:
+../src/SobelFilter.cpp:448:16: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+      picture = "input/logan.jpg";
+                ^~~~~~~~~~~~~~~~~
+Finished building: ../src/SobelFilter.cpp
+ 
+Building file: ../src/SobelFilter_kernels.cu
+Invoking: NVCC Compiler
+/usr/local/cuda-10.1/bin/nvcc -I-I/usr/include/opencv -I"/usr/local/cuda-10.1/samples/3_Imaging" -I"/usr/local/cuda-10.1/samples/common/inc" -I"/home/roronoasins/Music/acap-ugr/P5/sobelOperator" -G -g -O0 -gencode arch=compute_50,code=sm_50  -odir "src" -M -o "src/SobelFilter_kernels.d" "../src/SobelFilter_kernels.cu"
+/usr/local/cuda-10.1/bin/nvcc -I-I/usr/include/opencv -I"/usr/local/cuda-10.1/samples/3_Imaging" -I"/usr/local/cuda-10.1/samples/common/inc" -I"/home/roronoasins/Music/acap-ugr/P5/sobelOperator" -G -g -O0 --compile --relocatable-device-code=false -gencode arch=compute_50,code=compute_50 -gencode arch=compute_50,code=sm_50  -x cu -o  "src/SobelFilter_kernels.o" "../src/SobelFilter_kernels.cu"
+../src/SobelFilter_kernels.cu: In function ‘void setupTexture(int, int, Pixel*, int)’:
+../src/SobelFilter_kernels.cu:230:113: warning: ‘cudaError_t cudaMemcpyToArray(cudaArray_t, size_t, size_t, const void*, size_t, cudaMemcpyKind)’ is deprecated [-Wdeprecated-declarations]
+     checkCudaErrors(cudaMemcpyToArray(array, 0, 0, data, Bpp*sizeof(Pixel)*iw*ih, cudaMemcpyHostToDevice));
+                                                                                                                 ^
+/usr/local/cuda-10.1/bin/../targets/x86_64-linux/include/cuda_runtime_api.h:6595:46: note: declared here
+ extern __CUDA_DEPRECATED __host__ cudaError_t CUDARTAPI cudaMemcpyToArray(cudaArray_t dst, size_t wOffset, size_t hOffset, const void *src, size_t count, enum cudaMemcpyKind kind);
+                                              ^~~~~~~~~~~~~~~~~
+Finished building: ../src/SobelFilter_kernels.cu
+ 
+Building target: sobelOperator
+Invoking: NVCC Linker
+/usr/local/cuda-10.1/bin/nvcc --cudart static -L"/usr/local/cuda-10.1/samples/common/lib/linux/x86_64" -lGL -lGLU -lglut  --relocatable-device-code=false -gencode arch=compute_50,code=compute_50 -gencode arch=compute_50,code=sm_50 -link -o  "sobelOperator"  ./src/SobelFilter.o ./src/SobelFilter_kernels.o  /usr/local/cuda-10.1/samples/common/lib/linux/x86_64/libGLEW.a -l-lopencv_shape\ -lopencv_stitching\ -lopencv_superres\ -lopencv_videostab\ -lopencv_aruco\ -lopencv_bgsegm\ -lopencv_bioinspired\ -lopencv_ccalib\ -lopencv_datasets\ -lopencv_dpm\ -lopencv_face\ -lopencv_freetype\ -lopencv_fuzzy\ -lopencv_hdf\ -lopencv_line_descriptor\ -lopencv_optflow\ -lopencv_video\ -lopencv_plot\ -lopencv_reg\ -lopencv_saliency\ -lopencv_stereo\ -lopencv_structured_light\ -lopencv_phase_unwrapping\ -lopencv_rgbd\ -lopencv_viz\ -lopencv_surface_matching\ -lopencv_text\ -lopencv_ximgproc\ -lopencv_calib3d\ -lopencv_features2d\ -lopencv_flann\ -lopencv_xobjdetect\ -lopencv_objdetect\ -lopencv_ml\ -lopencv_xphoto\ -lopencv_highgui\ -lopencv_videoio\ -lopencv_imgcodecs\ -lopencv_photo\ -lopencv_imgproc\ -lopencv_core
+/usr/bin/ld: cannot find -l-lopencv_shape
+collect2: error: ld returned 1 exit status
+make: *** [sobelOperator] Error 1
+makefile:59: recipe for target 'sobelOperator' failed
+
+13:41:40 Build Finished (took 3s.921ms)
+

@@ -1,0 +1,274 @@
+#2 np
+
+Pix 50625
+
+Media aritmética (μ): 0.137189
+Mediana: 0.1339115
+Desviación estándar (σ): 0.0072566208733817
+
+Pix 382800
+
+Media aritmética (μ): 0.16443125
+Mediana: 0.168635
+Desviación estándar (σ): 0.0096376717721397
+
+Pix 660000
+
+Media aritmética (μ): 0.184956
+Mediana: 0.1848955
+Desviación estándar (σ): 0.0014793344787404
+
+Pix 828450
+
+Media aritmética (μ): 0.1932405
+Mediana: 0.192835
+Desviación estándar (σ): 0.0011791014587421
+
+Pix 2073600
+
+Media aritmética (μ): 0.26284925
+Mediana: 0.2624385
+Desviación estándar (σ): 0.0010863533897787
+
+Pix 2661120
+
+Media aritmética (μ): 0.29367525
+Mediana: 0.296043
+Desviación estándar (σ): 0.0084107922152145
+
+Pix 3145728
+
+Media aritmética (μ): 0.315053
+Mediana: 0.315147
+Desviación estándar (σ): 0.0013849976534324
+
+Pix 4096000
+
+Media aritmética (μ): 0.3759905
+Mediana: 0.3730245
+Desviación estándar (σ): 0.0058343296315855
+
+Pix 4990464
+
+Media aritmética (μ): 0.42185725
+Mediana: 0.4222025
+Desviación estándar (σ): 0.0012986137560963
+
+Pix 6480000
+
+Media aritmética (μ): 0.499206
+Mediana: 0.499231
+Desviación estándar (σ): 0.00029075247201626
+
+Pix 8294400
+
+Media aritmética (μ): 0.6003105
+Mediana: 0.6028315
+Desviación estándar (σ): 0.0050940972949215
+
+Pix 9216000
+
+Media aritmética (μ): 0.638788
+Mediana: 0.634063
+Desviación estándar (σ): 0.0082099413822498
+
+Pix 9437184
+
+Media aritmética (μ): 0.654707
+Mediana: 0.654346
+Desviación estándar (σ): 0.0080282302844365
+
+Pix 14745600
+
+Media aritmética (μ): 0.939198
+Mediana: 0.938512
+Desviación estándar (σ): 0.00355465905539
+
+Pix 33177600
+
+Media aritmética (μ): 1.953205
+Mediana: 1.954345
+Desviación estándar (σ): 0.0045670367854452
+
+Pix 37748736
+
+Media aritmética (μ): 2.2225725
+Mediana: 2.22458
+Desviación estándar (σ): 0.0074061541132531
+
+Pix 40320000
+
+Media aritmética (μ): 2.357455
+Mediana: 2.354225
+Desviación estándar (σ): 0.010234013142473
+
+Pix 42177408
+
+Media aritmética (μ): 2.6941025
+Mediana: 2.625815
+Desviación estándar (σ): 0.12870304646258
+
+Pix 64000000
+
+Media aritmética (μ): 3.6569825
+Mediana: 3.65518
+Desviación estándar (σ): 0.0043181615011932
+
+Pix 96000000
+
+Media aritmética (μ): 5.4311075
+Mediana: 5.425985
+Desviación estándar (σ): 0.013739751407955
+
+Pix 101092970
+
+Media aritmética (μ): 5.6958175
+Mediana: 5.69206
+Desviación estándar (σ): 0.011083941931957
+
+Pix 104917200
+
+Media aritmética (μ): 6.4034475
+Mediana: 6.33757
+Desviación estándar (σ): 0.13124742461757
+
+Pix 225000000
+
+Media aritmética (μ): Media aritmética (μ): 12.50215
+Mediana: 12.5022
+Desviación estándar (σ): 0.015376199141124
+
+#### np 3
+
+Pix 50625
+
+Media aritmética (μ): 0.13603225
+Mediana: 0.1364755
+Desviación estándar (σ): 0.0016452652331774
+
+Pix 382800
+
+Media aritmética (μ): 0.1531635
+Mediana: 0.154549
+Desviación estándar (σ): 0.0091885746854448
+
+Pix 660000
+
+Media aritmética (μ): 0.176478
+Mediana: 0.175012
+Desviación estándar (σ): 0.0023287740694773
+
+Pix 828450
+
+Media aritmética (μ): 0.17815475
+Mediana: 0.178767
+Desviación estándar (σ): 0.0012454608333888
+
+Pix 2073600
+
+Media aritmética (μ): 0.2230275
+Mediana: 0.225779
+Desviación estándar (σ): 0.0052346663933824
+
+Pix 2661120
+
+Media aritmética (μ): 0.25540875
+Mediana: 0.2540535
+Desviación estándar (σ): 0.011866372221008
+
+Pix 3145728
+
+Media aritmética (μ): 0.27105375
+Mediana: 0.2701775
+Desviación estándar (σ): 0.0053188001642758
+
+Pix 4096000
+
+Media aritmética (μ): 0.304681
+Mediana: 0.3042965
+Desviación estándar (σ): 0.0077055972189059
+
+Pix 4990464
+
+Media aritmética (μ): 0.368245
+Mediana: 0.3706385
+Desviación estándar (σ): 0.014022008825414
+
+Pix 6480000
+
+Media aritmética (μ): 0.4062115
+Mediana: 0.40145
+Desviación estándar (σ): 0.0089439319792797
+
+Pix 8294400
+
+Media aritmética (μ): 0.45829025
+Mediana: 0.4611395
+Desviación estándar (σ): 0.0093072916945519
+
+Pix 9216000
+
+Media aritmética (μ): 0.50150875
+Mediana: 0.5019475
+Desviación estándar (σ): 0.0039482652757275
+
+Pix 9437184
+
+Media aritmética (μ): 0.654707
+Mediana: 0.654346
+Desviación estándar (σ): 0.0080282302844365
+
+Pix 14745600
+
+Media aritmética (μ): 0.72679225
+Mediana: 0.725235
+Desviación estándar (σ): 0.019459789559181
+
+Pix 33177600
+
+Media aritmética (μ): 1.39743
+Mediana: 1.396305
+Desviación estándar (σ): 0.010954325629637
+
+Pix 40320000
+
+Media aritmética (μ): 1.67468
+Mediana: 1.673665
+Desviación estándar (σ): 0.0069125140144411
+
+Pix 42177408
+
+Media aritmética (μ): 1.7629925
+Mediana: 1.763735
+Desviación estándar (σ): 0.012714502300542
+
+Pix 64000000
+
+Media aritmética (μ): 2.45542
+Mediana: 2.449195
+Desviación estándar (σ): 0.03083926960875
+
+Pix 96000000
+
+Media aritmética (μ): 3.803515
+Mediana: 3.80717
+Desviación estándar (σ): 0.018130124792767
+
+Pix 101092970
+
+Media aritmética (μ): 4.0112725
+Mediana: 4.02317
+Desviación estándar (σ): 0.027347455434683
+
+Pix 104917200
+
+Media aritmética (μ): 4.15489
+Mediana: 4.155785
+Desviación estándar (σ): 0.0097803450858448
+
+Pix 225000000
+
+
+Media aritmética (μ): 8.7349125
+Mediana: 8.759035
+Desviación estándar (σ): 0.044202607035549

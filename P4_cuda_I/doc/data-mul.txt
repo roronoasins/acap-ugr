@@ -1,0 +1,88 @@
+Vector size: 200 Proc time:	0.0016541430
+
+Vector size: 8192 Proc time:	0.0231617000
+
+Vector size: 65536 Proc time:	0.1754841040
+
+Vector size: 200 Proc time:	0.0004454030
+
+Vector size: 18000 Proc time:	0.0414260880
+
+Vector size: 2050 Proc time:	0.0044663440
+
+Vector size: 4096 Proc time:	0.0088655490
+
+Vector size: 10000 Proc time:	0.0225212620
+
+Vector size: 12000 Proc time:	0.0270369380
+
+Vector size: 18000 Proc time:	0.0413764790
+
+Vector size: 36000 Proc time:	0.0978225230
+
+Vector size: 200 Proc time:	0.0004413890
+
+Vector size: 8192 Proc time:	0.0188864520
+
+Vector size: 65536 Proc time:	0.1759652900
+
+Vector size: 200 Proc time:	0.0004411300
+
+Vector size: 18000 Proc time:	0.0399933340
+
+Vector size: 2050 Proc time:	0.0045095750
+
+Vector size: 4096 Proc time:	0.0094659570
+
+Vector size: 10000 Proc time:	0.0228714920
+
+Vector size: 12000 Proc time:	0.0267648980
+
+Vector size: 18000 Proc time:	0.0402766870
+
+Vector size: 36000 Proc time:	0.0989439050
+
+Vector size: 200 Proc time:	0.0004256760
+
+Vector size: 8192 Proc time:	0.0195830020
+
+Vector size: 65536 Proc time:	0.1790254720
+
+Vector size: 200 Proc time:	0.0004415510
+
+Vector size: 18000 Proc time:	0.0402565740
+
+Vector size: 2050 Proc time:	0.0044637090
+
+Vector size: 4096 Proc time:	0.0094695260
+
+Vector size: 10000 Proc time:	0.0227289880
+
+Vector size: 12000 Proc time:	0.0267740020
+
+Vector size: 18000 Proc time:	0.0408884760
+
+Vector size: 36000 Proc time:	0.0992277000
+
+Vector size: 200 Proc time:	0.0004404670
+
+Vector size: 8192 Proc time:	0.0191399640
+
+Vector size: 65536 Proc time:	0.1750820890
+
+Vector size: 200 Proc time:	0.0004407690
+
+Vector size: 18000 Proc time:	0.0401253630
+
+Vector size: 2050 Proc time:	0.0044656550
+
+Vector size: 4096 Proc time:	0.0094931800
+
+Vector size: 10000 Proc time:	0.0227269120
+
+Vector size: 12000 Proc time:	0.0267462870
+
+Vector size: 18000 Proc time:	0.0402832560
+
+Vector size: 36000 Proc time:	0.0988678610
+
