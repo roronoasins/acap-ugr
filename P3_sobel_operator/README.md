@@ -12,3 +12,4 @@
 
 - [OpenMPI](https://www.open-mpi.org/) - Open source Message Passing Interface implementation
 - [GNU Octave](https://www.gnu.org/software/octave/) - Powerful mathematics-oriented syntax with built-in plotting and visualization tools
+- [OpenCV](https://opencv.org/) - library of programming functions mainly aimed at real-time computer vision.
